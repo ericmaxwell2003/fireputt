@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "875206050040",
+    "firebase_url": "https://fire-putt.firebaseio.com",
+    "project_id": "fire-putt",
+    "storage_bucket": "fire-putt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875206050040:android:11154edb56f4c1b1",
+        "android_client_info": {
+          "package_name": "com.acme.fireputt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875206050040-r0624vd462mgd656k2tqpqjpmfmlc9t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWE2TsUEYsXXNtDo8AifMfJcrp8Y2OuDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
