@@ -33,6 +33,8 @@ public class PlayerListAdapter extends RecyclerView.Adapter<PlayerListAdapter.Pl
         holder.setViewData(player);
     }
 
+
+
     @Override
     public int getItemCount() {
         return players == null ? 0 : players.size();
